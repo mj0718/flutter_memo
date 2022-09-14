@@ -1,6 +1,6 @@
 # firebase_example
 
-A new Flutter project.
+메모장앱- firebase로 내용 공유 가능
 
 ## Getting Started
 
