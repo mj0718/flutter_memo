@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "120735385273",
+    "firebase_url": "https://modern-bolt-340705-default-rtdb.firebaseio.com",
+    "project_id": "modern-bolt-340705",
+    "storage_bucket": "modern-bolt-340705.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120735385273:android:e887f663f70eedea47fd68",
+        "android_client_info": {
+          "package_name": "com.example.firebase_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120735385273-a4vt6nsho801j58kolf262bhc1mk0rfj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqUgw2AgnbF1w7Ks14g6OpJkuvFOsLz4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120735385273-a4vt6nsho801j58kolf262bhc1mk0rfj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
